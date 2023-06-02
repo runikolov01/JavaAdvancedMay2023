@@ -1,11 +1,11 @@
 package T05FunctionalProgramming;
 
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-import java.util.Scanner;
-import java.util.function.BiPredicate;
-import java.util.stream.Collectors;
+        import java.util.Arrays;
+        import java.util.Collections;
+        import java.util.List;
+        import java.util.Scanner;
+        import java.util.function.BiPredicate;
+        import java.util.stream.Collectors;
 
 public class E10PredicateParty {
     public static void main(String[] args) {
