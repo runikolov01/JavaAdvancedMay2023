@@ -1,6 +1,5 @@
-package Exam18Febr2023;
+package Exams.Exam25June2022.Exam18Febr2023;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;

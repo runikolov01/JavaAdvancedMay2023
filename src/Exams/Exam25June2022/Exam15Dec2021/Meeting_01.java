@@ -1,4 +1,4 @@
-package Exam15Dec2021;
+package Exams.Exam25June2022.Exam15Dec2021;
 
 import java.util.*;
 import java.util.stream.Collectors;

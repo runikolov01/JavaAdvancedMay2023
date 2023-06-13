@@ -1,4 +1,4 @@
-package Exam19Feb2022;
+package Exams.Exam25June2022.Exam19Feb2022;
 
 import java.util.ArrayDeque;
 import java.util.Arrays;
