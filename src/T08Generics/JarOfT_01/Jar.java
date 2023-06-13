@@ -1,4 +1,4 @@
-package JarOfT_01;
+package T08Generics.JarOfT_01;
 
 import java.util.ArrayDeque;
 

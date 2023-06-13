@@ -1,4 +1,4 @@
-package GenericBox_01;
+package T08Generics.GenericBox_01;
 
 public class Box<T> {
     private final T value;

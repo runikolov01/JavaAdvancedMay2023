@@ -1,4 +1,6 @@
-package JarOfT_01;
+package T08Generics.JarOfT_01;
+
+import T08Generics.JarOfT_01.Jar;
 
 public class Main {
     public static void main(String[] args) {
